@@ -1,0 +1,16 @@
+#mainDiv {
+     text-align: center;
+     background-color:rgb(37, 37, 58);
+     
+  }
+
+  #inputText {
+    vertical-align: bottom;
+    font-size: 25px;
+     }
+
+     #inputbtn {
+        vertical-align: bottom;
+        font-size: 20px;
+        
+      }
